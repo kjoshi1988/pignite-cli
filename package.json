@@ -1,0 +1,24 @@
+{
+  "name": "pignite-cli",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kjoshi1988/pignite-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kjoshi1988/pignite-cli/issues"
+  },
+  "homepage": "https://github.com/kjoshi1988/pignite-cli#readme",
+  "dependencies": {
+    "boxen": "^4.2.0",
+    "chalk": "^4.0.0",
+    "inquirer": "^7.1.0"
+  }
+}
